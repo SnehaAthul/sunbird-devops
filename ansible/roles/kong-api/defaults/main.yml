@@ -177,6 +177,7 @@ player_service_url: "http://ui-proxies:3003"
 echo_service_url: "http://echo:9595"
 am_util_url: "http://adminutil:4000"
 config_service_url: "http://config-service:8080"
+
 lms_service_url: "http://lms-service:9000"
 cert_service_url: "http://cert-service:9000"
 cert_registry_service_url: "http://cert-registry-service:9000"
